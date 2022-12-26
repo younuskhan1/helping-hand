@@ -13,7 +13,7 @@ body {
     background-image: url(images/donation6.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    color: white;
+    color: rgb(255, 255, 0);
     padding-top: 100px;
 }
 
@@ -37,4 +37,43 @@ body {
     border-radius: 10px;
     margin-top: 50px;
     margin-left: 520px;
+}
+
+.donation-section h1 {
+    font-size: 40px;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+
+.donation-section p {
+    padding-top: 10px;
+    text-align: center;
+    color: gray;
+}
+
+.donation-amount {
+    text-align: center;
+}
+
+div strong {
+    padding: 40px 20px;
+    margin: 10px;
+    margin-top: 50px;
+    background-color: lightgrey;
+    display: inline-block;
+    font-size: 25px;
+    border-radius: 5px;
+    border: 3px solid lightgrey;
+}
+
+.different {
+    border: 3px solid tomato;
+    background-color: lightgray;
+    padding: 40px 20px;
+    border-radius: 5px;
+    font-size: 25px;
+    display: inline-block;
+    color: tomato;
+
 }
