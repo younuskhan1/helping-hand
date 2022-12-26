@@ -35,8 +35,9 @@ body {
     padding: 15px;
     border: 3px solid blue;
     border-radius: 10px;
-    margin-top: 50px;
-    margin-left: 520px;
+    margin-top: 20px;
+    margin-left: 550px;
+    margin-bottom: 30px;
 }
 
 .donation-section h1 {
@@ -76,4 +77,11 @@ div strong {
     display: inline-block;
     color: tomato;
 
+}
+
+.other-amount {
+    width: 65%;
+    margin: 20px auto;
+    padding-bottom: 20px;
+    border-bottom: 2px solid gray;
 }
