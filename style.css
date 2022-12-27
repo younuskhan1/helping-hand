@@ -156,3 +156,40 @@ div strong {
     margin-bottom: 30px;
     margin-left: 30px;
 }
+
+.update-text {
+    width: 60%;
+    margin: 0px auto;
+}
+
+.updated-email {
+    width: 70%;
+    margin: 0px auto;
+    height: 190px;
+    background-color: bisque;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    align-items: center;
+}
+
+input[type=text] {
+    width: 20%;
+    padding: 11px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-family: 'Prosto One', cursive;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+label {
+    width: 20%;
+    padding: 13.5px 30px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: salmon;
+    position: relative;
+    margin-left: -9px;
+    font-size: 12px;
+    font-weight: bold;
+}
