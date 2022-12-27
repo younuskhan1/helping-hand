@@ -187,7 +187,8 @@ label {
     padding: 13.5px 30px;
     margin: 8px 0;
     box-sizing: border-box;
-    background-color: salmon;
+    background-color: hotpink;
+    color: white;
     position: relative;
     margin-left: -9px;
     font-size: 12px;
