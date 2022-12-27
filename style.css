@@ -31,9 +31,8 @@ body {
 .button {
     display: inline-block;
     text-decoration: none;
-    background: linear-gradient(45deg, red, yellow);
+    background: linear-gradient(45deg, orangered, orange);
     padding: 15px;
-    border: 3px solid blue;
     border-radius: 10px;
     margin-top: 20px;
     margin-left: 550px;
@@ -148,9 +147,8 @@ div strong {
 .contribute {
     display: inline-block;
     text-decoration: none;
-    background: linear-gradient(45deg, red, yellow);
+    background: linear-gradient(45deg, orangered, orange);
     padding: 15px;
-    border: 3px solid blue;
     border-radius: 10px;
     margin-top: 20px;
     margin-bottom: 30px;
